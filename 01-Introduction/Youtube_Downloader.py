@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from pytube import YouTube
 
 url = input("Please Enter the url if video: ")
