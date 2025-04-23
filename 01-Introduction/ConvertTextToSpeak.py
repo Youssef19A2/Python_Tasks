@@ -1,3 +1,4 @@
+#!/bin/usr/python3
 from gtts import gTTS
 import vlc
 import time
