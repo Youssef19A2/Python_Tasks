@@ -1,3 +1,6 @@
+'''
+Using “Pyautogui” to open Emails and change Emails from unread to read
+'''
 import pyautogui
 from time import sleep
 import webbrowser
